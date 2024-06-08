@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Satvik-19
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning Java, C++, Python and Artificial Intelligence
 - 💞️ I’m looking to collaborate on any project under my domain skills
 
 <!---
