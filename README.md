@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Any project under my domain skills**
 
-- 👨‍💻 All of my projects are available at [in my GitHub Repositories](in my GitHub Repositories)
-
 - 📫 How to reach me **Satvikmishrayt19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
