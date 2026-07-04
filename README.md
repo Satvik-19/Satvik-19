@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satvik Mishra</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on AI-powered applications involving computer vision, NLP, and intelligent systems. My recent work includes deep learning model integration, backend automation, and smart feature pipelines.<br>🤝 I’m looking to collaborate on AI-driven projects, cross-platform mobile apps (Flutter), and full-stack systems with real-world impact.<br>🤗 I’m looking for help with advanced model tuning, API optimization for AI services, and state management best practices in Flutter.<br>🌱 I’m currently learning advanced Java concepts, model deployment with Python, and efficient UI/UX workflows in Flutter.
+🔭 I’m currently working on AI-powered applications involving computer vision, NLP, and intelligent systems. My recent work includes deep learning model integration, backend automation, and smart feature pipelines.<br>🤝 I’m looking to collaborate on AI-driven projects, cross-platform mobile apps (Flutter), and full-stack systems with real-world impact.<br>🤗 I’m looking for help with advanced model tuning, API optimization for AI services, and state management best practices in Flutter.<br>🌱 I’m currently learning advanced Java concepts, model deployment with Python, and efficient UI/UX workflows in Flutter
 
 
 ## 🌐 Socials:
