@@ -17,7 +17,7 @@
 
 ## About
 
-I am Satvik Mishra, an AI Systems & Backend Engineer from Jaipur, Rajasthan, currently pursuing B.Tech in Artificial Intelligence at BIT Mesra.
+I am Satvik Mishra, an AI Systems & Backend Engineer from Jaipur, Rajasthan, currently pursuing B.Tech in Artificial Intelligence & Machine Learning at BIT Mesra.
 
 My work sits at the intersection of software engineering, AI infrastructure, and product-minded backend systems. I focus on building reliable APIs, structured reasoning pipelines, validation layers, evaluation workflows, and AI-powered products that can move beyond demos into maintainable software.
 
@@ -164,27 +164,6 @@ Rivet is kept intentionally high level here because the implementation details a
 
 ---
 
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| Reliance Foundation Undergraduate Scholar 2024 | Selected as an undergraduate scholar in 2024 |
-| B.Tech in Artificial Intelligence | BIT Mesra Jaipur Off-Campus, 2023-2027 |
-| Academic Performance | Maintained 8+ SGPA, with CGPA around 8.3-8.4 |
-| SIH Prelims Qualified / Internal Selection | Internal/prelims-level qualification, phrased without overclaiming |
-
-</div>
-
----
-
-## Certifications
-
-Certifications will be added here as they are completed.
-
----
-
 ## Coding Profiles
 
 <div align="center">
@@ -201,20 +180,9 @@ Certifications will be added here as they are completed.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Satvik-19&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple&bg_color=00000000&title_color=C4B5FD&text_color=E5E7EB&icon_color=8B5CF6" alt="GitHub Stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=Satvik-19&theme=midnight-purple&hide_border=true&background=00000000&ring=8B5CF6&fire=C4B5FD&currStreakLabel=C4B5FD" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satvik-19&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=midnight-purple" alt="GitHub Stats" />
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik-19&layout=compact&count_private=true&hide_border=true&theme=midnight-purple&bg_color=00000000&title_color=C4B5FD&text_color=E5E7EB" alt="Top Languages" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Satvik-19&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6)
+<img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satvik-19&layout=compact&count_private=true&hide_border=true&theme=midnight-purple" alt="Top Languages" />
 
 </div>
 
@@ -251,8 +219,8 @@ Learning:
   - AI infrastructure
 
 Building:
-  - KNOT
-  - KAIROS
+  - KNOT AI
+  - Waymark
 
 Exploring:
   - Cognitive AI systems
