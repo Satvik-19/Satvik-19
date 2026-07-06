@@ -206,8 +206,6 @@ Rivet is kept intentionally high level here because the implementation details a
 
 </div>
 
-The contribution snake requires a GitHub Actions workflow that publishes the generated SVG to the `output` branch.
-
 ---
 
 ## Current Focus
