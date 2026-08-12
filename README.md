@@ -178,12 +178,10 @@ Rivet is kept intentionally high level here because the implementation details a
 
 ## GitHub Analytics
 
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Satvik-19&show_icons=true&include_all_commits=true&hide_border=true&theme=midnight-purple" alt="GitHub Stats" />
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik-19&layout=compact&hide_border=true&theme=midnight-purple" alt="Top Languages" />
-
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="650" />
 </div>
 
 ---
