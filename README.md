@@ -180,9 +180,9 @@ Rivet is kept intentionally high level here because the implementation details a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satvik-19&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=midnight-purple" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Satvik-19&show_icons=true&include_all_commits=true&hide_border=true&theme=midnight-purple" alt="GitHub Stats" />
 
-<img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Satvik-19&layout=compact&count_private=true&hide_border=true&theme=midnight-purple" alt="Top Languages" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik-19&layout=compact&hide_border=true&theme=midnight-purple" alt="Top Languages" />
 
 </div>
 
