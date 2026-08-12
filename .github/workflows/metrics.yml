@@ -20,7 +20,7 @@ jobs:
           user: Satvik-19
           filename: github-metrics.svg
 
-          template: classic
+          template: terminal
           config_timezone: Asia/Kolkata
 
           base: header, repositories
@@ -31,5 +31,19 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_threshold: 2%
 
-          plugin_lines: yes
-          plugin_lines_sections: base
+          extras_css: |
+            .field {
+              margin-bottom: 4px !important;
+            }
+
+            .field svg {
+              max-height: 18px !important;
+            }
+
+            .languages {
+              margin-top: 6px !important;
+            }
+
+            .column {
+              gap: 8px !important;
+            }
